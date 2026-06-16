@@ -1,13 +1,48 @@
-👋 Hi, I’m @kevin2tec  
-🔐 I’m interested in cybersecurity, ethical hacking, bug hunting, system development, and building tools that make tech safer.  
-🌱 I’m currently diving deeper into red teaming, advanced vulnerability exploitation, and building full-stack security-focused applications — both mobile and web.  
-💞️ I’m looking to collaborate on cybersecurity research, anti-ransomware frameworks, OSINT tools, and innovative defense/offense projects.  
-📫 How to reach me
-WAPP:0741074468
-😄 Pronouns: He/Him  
-⚡ Fun fact: I build secure systems... and then break them — all in a day’s work 😉  
+# z3r0w3b
 
-<!---
-kevin2tec/kevin2tec is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Web Developer | App Developer | Cybersecurity Researcher
+
+I am a developer and security enthusiast focused on building reliable applications, exploring vulnerabilities, and creating technology that is secure by design.
+
+I work across web development, mobile development, and cybersecurity — combining engineering with security research to understand how systems are built, tested, and protected.
+
+## Areas of Interest
+
+- Web Application Development
+- Mobile App Development
+- Full-Stack Engineering
+- Cybersecurity
+- Ethical Hacking
+- Bug Bounty Research
+- API Security
+- Vulnerability Analysis
+- Secure Coding Practices
+- Security Tool Development
+
+## Currently Learning
+
+- Advanced Web Security
+- Red Team Methodologies
+- Application Security
+- Exploit Research
+- Secure Software Architecture
+
+## Looking To Collaborate On
+
+- Cybersecurity research projects
+- Open-source security tools
+- Secure web and mobile applications
+- OSINT projects
+- Developer-focused security solutions
+
+## Contact
+
+WAPP: 0741074468
+
+## About
+
+I build applications, analyze systems, and improve security.Developers worst nightmar3.
+
+**Develop. Test. Secure. Repeat.**
+
+— z3r0w3b
